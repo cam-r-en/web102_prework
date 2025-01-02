@@ -1,40 +1,38 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster
 
-Submitted by: **Your Name Here**
+Submitted by: **Camren Henderson**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] The ability to search for a random game prompted by the user.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/14b93024e3734e28a83624d349f370c5?sid=3af2f3c5-325f-4be9-8779-124dc0ffc62d' title='Sea Monster Walkthrough (Pre-Work 2)' width='' alt='Sea Monster Walkthrough (Pre-Work 2)' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<!-- Video Credits -->
+Video created with Loom  
+<!-- Tool Link:
+[Loom](https://www.loom.com/) -->
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It mainly took me a while to figure out how to properly submit the project, since my knowledge of GitHub (and most of HTML, CSS, & JS) has been kind of foggy after not using them for a while. It did feel refreshing completing a project like this as it reminded me of why I did enjoy coding (specifically Frontend Development) so much.
 
 ## License
 
@@ -51,3 +49,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
